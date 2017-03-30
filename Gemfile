@@ -57,6 +57,7 @@ gem 'faker'
 gem 'populator'
 gem 'auto_html', '~>1.6.4'
 gem 'sanitize'
+gem 'gioco'
 
 # Use ActiveModel has_secure_password
 # gem 'bcrypt', '~> 3.1.7'
